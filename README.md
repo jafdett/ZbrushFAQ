@@ -26,7 +26,7 @@
 
 [Курс от Udemy для начинающих](https://www.udemy.com/course/zbrush-2021-for-absolute-beginners/) (платный)
 
-Горячие клавиши Zbrush 
+[Горячие клавиши Zbrush](https://github.com/jafdett/ZbrushFAQ/blob/main/hotkeys.md) 
 
 [Еще ссылки на полезные ресурсы](https://docs.google.com/document/d/1NWLh6-GBG0Dg9ft2MzhvbYOUr0V8QdWH7xs0bhWnitU/edit#heading=h.biaprb1z932a)
 
