@@ -10,25 +10,25 @@
 
 [FlippedNormals для начинающих](https://youtu.be/_yKGfcp2z3k) - Вообще хороший канал, много полезного. 
 
-Денис Кожар - быстрый старт для начинающих
+[Денис Кожар - быстрый старт для начинающих](https://www.youtube.com/watch?v=yizqyD0vJKA)
 
-Михаил Павлович, Основы на Artstation
+[Михаил Павлович, Основы](https://www.artstation.com/learning/courses/xJ/basics/chapters/Qa7/sculpting-and-saving-variants) на Artstation
 
 Павел Терехов обещает курс, как появится - выложим тут ссылку. 
 
-Интерфейс и скрипты Zbrush
+[Интерфейс и скрипты Zbrush](https://www.youtube.com/watch?v=xyZjFnuJEAw&list=PL43JrQHAghDoMINIjSubecb1N0AiOTwTa)
 
-AskZbrush - хэштег YouTube для поиска коротких роликов про ответы на вопросы  по Zbrush, набор видео от Pixologic.
+[#AskZbrush](https://www.youtube.com/hashtag/askzbrush) - хэштег YouTube для поиска коротких роликов про ответы на вопросы  по Zbrush, набор видео от Pixologic.
 
-Артелум на YouTube,  платный курс и бесплатный базовый курс от этой же команды. 
+[Артелум](https://www.youtube.com/c/Kondratiki/playlists) на YouTube,  [платный курс](https://kondratiki.pro/core/kurs-zbrush-uroki) и [бесплатный базовый курс](https://kondratiki.pro/core/kurs-zbrush-uroki/goriachie-clavishi-zbrush) от этой же команды. 
 
-Анатомия головы, записанный стрим. 
+[Анатомия головы](https://youtu.be/0Da9oAe0BYA), записанный стрим. 
 
-Курс от Udemy для начинающих (платный)
+[Курс от Udemy для начинающих](https://www.udemy.com/course/zbrush-2021-for-absolute-beginners/) (платный)
 
 Горячие клавиши Zbrush 
 
-Еще ссылки на полезные ресурсы
+[Еще ссылки на полезные ресурсы](https://docs.google.com/document/d/1NWLh6-GBG0Dg9ft2MzhvbYOUr0V8QdWH7xs0bhWnitU/edit#heading=h.biaprb1z932a)
 
 
 ## Но я не понимаю по английски! 
