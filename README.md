@@ -80,6 +80,7 @@ Pinterest, Yandex и Google поиск по картинкам.
 https://www.zbrushcentral.com/
 
 https://artstation.com
+https://render.ru
 
 
 ## Если я нашел 3d модель и даже смог открыть ее в Zbrush, я смогу ее использовать в качестве рефа? А, наверное нет, ведь Zbrush не поддерживает два монитора. 
